@@ -1,4 +1,3 @@
-# store-SalesReport
 
 DOMAIN: Store Sales Report in Power BI
 
